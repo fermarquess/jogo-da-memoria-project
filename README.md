@@ -11,6 +11,10 @@ Projeto desenvolvido no Bootcamp Potência Tech iFood - Desenvolvimento de Jogos
 ![Captura de tela de 2024-01-08 23-17-49](https://github.com/fermarquess/jogo-da-memoria-project/assets/100250814/796f9962-bc78-4cd6-83fc-20ef27002e20)
 ![jogo-da-memoria](https://github.com/fermarquess/jogo-da-memoria-project/assets/100250814/2c87e368-a711-4c78-91fd-b282373b0e27)
 
+## Quer jogar? ▶️
+
+**[Clique aqui](https://fermarquess.github.io/jogo-da-memoria-project/)** 😎
+
 
 
 
